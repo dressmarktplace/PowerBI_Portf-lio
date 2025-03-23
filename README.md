@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio de projetos de Power BI! Aqui você encontrará aná
 
 1. **Dashboard de vendas**
    - Relatório de vendas 
-   - 📸 [Ver Captura de Tela] (C:\Users\Windows 8.1\Desktop\bi\58f08128-b269-4f9a-9e69-e66b0d1c21e6.jpg)
+   - 📸 [Ver Captura de Tela] C:\Users\Windows 8.1\Desktop\bi\WhatsApp Image 2025-03-22 at 17.36.28.jpeg
      
 2. **Dashboard projetos**
    - Relatório projetos
