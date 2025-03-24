@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio de projetos de Power BI! Aqui você encontrará aná
 
 1. **Dashboard de Vendas**
    - KPIs: Faturamento, Ticket Médio, Produtos mais Vendidos
-   - Fonte: Dados fictícios do Excel
+   - Fonte: Dados do Excel
    - 📸 [Ver Captura de Tela](link_da_imagem)
 
 2. **Análise de Marketplaces**
@@ -16,3 +16,5 @@ Bem-vindo ao meu portfólio de projetos de Power BI! Aqui você encontrará aná
 ## 🔗 Contato
 💼 [Meu LinkedIn](https://linkedin.com/in/michellesilvaa)  
 📧 Email: dressmarktplace@gmail.com
+
+ 
