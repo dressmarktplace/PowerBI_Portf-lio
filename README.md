@@ -15,7 +15,7 @@ Bem-vindo ao meu portfólio de projetos de Power BI! Aqui você encontrará aná
 
 3. ** Análise de Classificação do Campeonato Brasileiro de Fubetol - 2024
    - Classificação geral
-   - 📸 [Ver Captura de Tela](link_da_imagem)https://app.powerbi.com/reportEmbed?reportId=0a8a5c87-a0b5-4e51-b710-7f100c37dbe6&autoAuth=true&ctid=b1051c4b-3b94-41ab-9441-e73a72342fdd)
+   - 📸 [Ver Captura de Tela]([link_da_imagem](https://app.powerbi.com/reportEmbed?reportId=0a8a5c87-a0b5-4e51-b710-7f100c37dbe6&autoAuth=true&ctid=b1051c4b-3b94-41ab-9441-e73a72342fdd)
 
 ## 🔗 Contato
 💼 [Meu LinkedIn](https://linkedin.com/in/michellesilvaa)  
