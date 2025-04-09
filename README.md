@@ -5,9 +5,9 @@ Bem-vindo ao meu portfólio de projetos de Power BI! Aqui você encontrará aná
 ## 📊 Projetos
 
 1. **Dashboard de Vendas**
-   - KPIs: Faturamento, Ticket Médio, Produtos mais Vendidos
+   - KPIs: Movimentação, Entradas e saídas, Produtos 
    - Fonte: Dados do Excel
-   - 📸 [Ver Captura de Tela](link_da_imagem)
+   - 📸 [Ver Captura de Tela]([link_da_imagem](https://app.powerbi.com/reportEmbed?reportId=6f99573e-77c6-4970-a77c-4954239d89eb)
 
 2. **Análise de Marketplaces**
    - Comparação de vendas entre Amazon, Shopee e Mercado Livre
